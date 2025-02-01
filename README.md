@@ -15,7 +15,7 @@ AuditBot is a comprehensive file audit and analysis tool designed to help users 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/AuditBot.git
+   git clone https://github.com/makalin/AuditBot.git
    cd AuditBot
    ```
 
